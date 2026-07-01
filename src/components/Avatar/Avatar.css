@@ -1,0 +1,39 @@
+.avatar-window {
+  width: 280px;
+  height: 280px;
+
+  background: #ffffff;
+
+  border: 3px solid #222;
+
+  border-radius: 12px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto 20px;
+}
+
+.avatar {
+  position: relative;
+
+  width: 64px;
+  height: 64px;
+
+  image-rendering: pixelated;
+
+  transform: scale(4);
+}
+
+.layer {
+  position: absolute;
+
+  left: 0;
+  top: 0;
+
+  width: 64px;
+  height: 64px;
+
+  image-rendering: pixelated;
+}

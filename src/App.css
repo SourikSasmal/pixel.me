@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background: #f6f1e8;
+  font-family: "Silkscreen", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  padding: 20px 12px;
+}
+
+.editor {
+  width: 100%;
+  max-width: 390px;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 10px;
+
+  width: 100%;
+
+  margin-top: 16px;
+}
+
+.action-buttons > * {
+  flex: 1;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 480px) {
+  .app {
+    padding: 16px 10px;
+  }
+
+  .editor {
+    max-width: 100%;
+  }
+}

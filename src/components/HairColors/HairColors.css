@@ -1,0 +1,25 @@
+.hair-colors{
+    display:flex;
+    gap:10px;
+    justify-content:center;
+}
+
+.color-btn{
+
+    width:35px;
+    height:35px;
+
+    border-radius:50%;
+
+    border:2px solid black;
+
+    cursor:pointer;
+
+}
+
+.black{background:#222;}
+.brown{background:#6f4e37;}
+.blonde{background:#f7d774;}
+.blue{background:#4a90e2;}
+.pink{background:#ff79b0;}
+.white{background:#ffffff;}
