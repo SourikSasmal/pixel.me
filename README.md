@@ -1,8 +1,16 @@
+<div align="center">
+
 # 🎨 pixel.me
 
 Create your own pixel-art avatar directly in your browser.
 
-**pixel.me** is a mobile-friendly avatar creator built with React that lets users customize hairstyles, clothing, facial features, accessories, and colors, then export their creation as a crisp PNG image.
+**Live Demo**
+
+🌐 https://pixel-me-one.vercel.app/
+
+![Preview](public/preview.png)
+
+</div>
 
 ---
 
@@ -10,73 +18,61 @@ Create your own pixel-art avatar directly in your browser.
 
 - 🎭 Multiple hairstyles
 - 🎨 Hair color customization
-- 👕 Clothing selection
+- 👕 Tops & outfits
 - 👖 Bottoms selection
 - 😊 Eyes & mouth customization
 - 🎀 Accessories
 - 🎲 Random avatar generator
-- 📷 Pixel-perfect PNG export
-- 📱 Mobile-friendly interface
-- ⚡ Built with React + Vite
-
----
-
-## 📸 Preview
-
-> Add a screenshot here after publishing.
-
-```
-/public/preview.png
-```
-
-or
-
-```md
-![pixel.me Preview](./public/preview.png)
-```
+- 📥 Pixel-perfect PNG export
+- 📱 Mobile-friendly design
+- ⚡ Fast and responsive React application
 
 ---
 
 ## 🚀 Live Demo
 
-Coming soon...
+Visit the project here:
 
-After deploying:
-
-https://pixel-me.vercel.app
+### https://pixel-me-one.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Preview
+
+![pixel.me Preview](public/preview.png)
+
+---
+
+## 🛠️ Built With
 
 - React
 - JavaScript (ES6)
 - Vite
-- CSS3
 - HTML5
+- CSS3
 
 ---
 
 ## 📂 Project Structure
 
-```
-src/
-├── assets/
-├── components/
-│   ├── Avatar/
-│   ├── CategoryTabs/
-│   ├── HairColors/
-│   ├── ItemGrid/
-│   ├── RandomButton/
-│   └── DownloadButton/
-├── data/
-├── utils/
+```text
+src
+├── assets
+├── components
+│   ├── Avatar
+│   ├── CategoryTabs
+│   ├── HairColors
+│   ├── ItemGrid
+│   ├── RandomButton
+│   └── DownloadButton
+├── data
+├── utils
 └── App.jsx
 ```
 
 ---
 
-## 📦 Installation
+## 📦 Getting Started
 
 Clone the repository
 
@@ -84,7 +80,7 @@ Clone the repository
 git clone https://github.com/SourikSasmal/pixel.me.git
 ```
 
-Go inside the folder
+Move into the project
 
 ```bash
 cd pixel.me
@@ -104,16 +100,18 @@ npm run dev
 
 ---
 
-## 🎯 Future Improvements
+## 🎯 Roadmap
 
-- Save avatars
-- Share avatar with a link
-- More hairstyles
-- More outfits
-- Hats & masks
-- Character presets
-- Dark mode
-- Animation
+Planned features for future versions:
+
+- 💾 Save avatars
+- 🔗 Shareable avatar links
+- 👒 Hats and masks
+- 🧥 More clothing options
+- 💇 More hairstyles
+- 🌙 Dark mode
+- 🧑 Character presets
+- ✨ Animations
 
 ---
 
@@ -123,6 +121,12 @@ npm run dev
 
 GitHub:
 https://github.com/SourikSasmal
+
+---
+
+## ⭐ Support
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub!
 
 ---
 
