@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="public/logo.png" width="120">
+
 # 🎨 pixel.me
 
 Create your own pixel-art avatar directly in your browser.
