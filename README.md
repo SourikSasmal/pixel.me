@@ -1,6 +1,13 @@
 <div align="center">
+  <img
+    src="public/logo.png"
+    width="120"
+    style="border-radius:50%;"
+    alt="pixel.me Logo"
+  />
 
-<img src="public/logo.png" width="120">
+  # pixel.me
+</div>
 
 # 🎨 pixel.me
 
